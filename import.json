@@ -1,0 +1,44 @@
+{
+    "data": {
+        "text": "这是一个测试样例是的呀urlrulrurl。"
+    },
+    "predictions": [
+        {
+            "model_version": "version 1",
+            "score": 0.5,
+            "result": [
+                {
+                  "value": {
+                    "start": 0,
+                    "end": 2,
+                    "text": "这是",
+                    "labels": [
+                      "待定123"
+                    ]
+                  },
+                  "id": "_gHBqpZxU2",
+                  "from_name": "label",
+                  "to_name": "text",
+                  "type": "labels",
+                  "origin": "model"
+                },
+                {
+                  "value": {
+                    "start": 3,
+                    "end": 5,
+                    "text": "个测",
+                    "labels": [
+                      "待定"
+                    ]
+                  },
+                  "id": "V4IBykfmH_",
+                  "from_name": "label",
+                  "to_name": "text",
+                  "type": "labels",
+                  "origin": "model"
+                }
+              ]
+        }
+    ]
+
+}
