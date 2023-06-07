@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T06:06:13.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" version="21.3.7" etag="qbdhYn80y0l1gFfWi077" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T06:19:40.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="vtMaQrEH6X50Uy59eq4_" version="21.3.7" type="github">
   <diagram name="第 1 页" id="ueDyPSU_5uFVpI6oFANO">
-    <mxGraphModel>
+    <mxGraphModel dx="1166" dy="775" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226.66668701171875" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-2" target="3DZR8ei0jo_TFXo5EYrb-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="94" y="463" />
+              <mxPoint x="432" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-2" value="标准摘要数据" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="201" width="87" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-3" target="3DZR8ei0jo_TFXo5EYrb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-3" target="3DZR8ei0jo_TFXo5EYrb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-3" value="微调后Pegasus模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="168" y="251" width="116" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-4" target="3DZR8ei0jo_TFXo5EYrb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-4" value="Pegasus模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="168" y="138" width="116" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-7" target="3DZR8ei0jo_TFXo5EYrb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-7" value="候选摘要数据（对比训练用）" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="177.25" y="357" width="97.5" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-9" value="生成" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="309" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431.5" y="277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-10" value="对比训练数据" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="337" width="87" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3DZR8ei0jo_TFXo5EYrb-11" target="3DZR8ei0jo_TFXo5EYrb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-11" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="415" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-15" value="对比训练后&lt;br&gt;Pegasus模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="548" y="251" width="116" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="3DZR8ei0jo_TFXo5EYrb-18" value="对比学习" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445.5" y="251" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
