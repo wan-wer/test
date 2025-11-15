@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.2">
   <diagram name="第 1 页" id="o7wftnk6vWVDLyBShCiy">
-    <mxGraphModel>
+    <mxGraphModel dx="2723" dy="1463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-1" target="BN6KDmn3jLdXzhFVhFL0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-124" y="102" width="120" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-2" target="BN6KDmn3jLdXzhFVhFL0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-2" value="观瞄发控装置&lt;div&gt;发生问题&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="47" y="97" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-3" target="BN6KDmn3jLdXzhFVhFL0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-3" target="BN6KDmn3jLdXzhFVhFL0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-3" value="是否外观问题" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="286" y="95" width="168" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-5" target="BN6KDmn3jLdXzhFVhFL0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-5" value="更换相关备件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="281.5" y="266" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-7" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="310" y="423" width="120" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-8" target="BN6KDmn3jLdXzhFVhFL0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-8" value="观瞄发控装置性能故障" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="522" y="97" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-9" target="BN6KDmn3jLdXzhFVhFL0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-9" value="故障检测、问题定位" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="778" y="97" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-10" target="BN6KDmn3jLdXzhFVhFL0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-10" value="故障组件更换" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="97" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-11" target="BN6KDmn3jLdXzhFVhFL0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-11" value="观瞄总装" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="97" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-12" target="BN6KDmn3jLdXzhFVhFL0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-12" value="观瞄光轴调试、校准" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1269" y="268" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-13" target="BN6KDmn3jLdXzhFVhFL0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-13" value="观瞄密封及密封性" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1019" y="268" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-14" target="BN6KDmn3jLdXzhFVhFL0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-14" value="观瞄性能测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="784" y="268" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BN6KDmn3jLdXzhFVhFL0-15" target="BN6KDmn3jLdXzhFVhFL0-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="622" y="456" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-15" value="观瞄环境应力测试" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="533" y="268" width="177" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-30" value="是" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="323" y="201" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BN6KDmn3jLdXzhFVhFL0-31" value="否" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="454" y="102" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
